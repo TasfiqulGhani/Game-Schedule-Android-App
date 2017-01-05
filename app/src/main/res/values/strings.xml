@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">ICC World T20 2016</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string name="speech_prompt">What is the name of the course ?&#8230;</string>
+    <string name="speech_not_supported">Sorry! Your device doesn\'t support speech input</string>
+    <string name="tap_on_mic">Tap on mic to speak</string>
+    <string name="title_activity_notifications">Notifications</string>
+    <string name="title_activity_information">Information</string>
+    <string name="title_activity_inform">Info</string>
+    <string name="large_text">
+        "ICC World Twenty20 2016.\n\n\n"
+
+        "Awesome android app to get latest news of the world cup 2016.\n\n\nFeatures:\n\n\n*Get latest news of ICC World Twenty20 2016.\n\n*Get notification before every matches\n\n*Get result of every matches."
+
+    </string>
+    <string name="title_activity_start">Start</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+
+</resources>
